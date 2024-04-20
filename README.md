@@ -1,6 +1,7 @@
 # Real-Time chat_app: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher 
 
 This is a repository for a Real-Time Messenger Clone: Next.js 13, React, Tailwind, Prisma, MongoDB, NextAuth, Pusher.
+![image](https://github.com/Tuhin810/fullstack_chat_app/assets/111550237/9a4980e6-4ec0-42f1-b3d7-9106a0a3e793)
 
 Key Features:
 
